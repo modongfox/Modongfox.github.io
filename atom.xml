@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://modongfox.github.io</id>
+    <title>Not Only Time</title>
+    <updated>2020-10-31T21:02:33.346Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://modongfox.github.io"/>
+    <link rel="self" href="https://modongfox.github.io/atom.xml"/>
+    <subtitle>我们不知道自己是谁，也不知道自己该成为谁</subtitle>
+    <logo>https://modongfox.github.io/images/avatar.png</logo>
+    <icon>https://modongfox.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Not Only Time</rights>
+    <entry>
+        <title type="html"><![CDATA[凌晨4点 清醒枕头糊涂水]]></title>
+        <id>https://modongfox.github.io/post/ling-chen-4-dian-qing-xing-zhen-tou-hu-tu-shui/</id>
+        <link href="https://modongfox.github.io/post/ling-chen-4-dian-qing-xing-zhen-tou-hu-tu-shui/">
+        </link>
+        <updated>2020-10-31T20:05:30.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>   这是我第一次在github上发博客，只是用来记载一些计划与感想的，不是给某些人评头论足的。
+   其实最近关于线上交际方面非常的迷惑与受伤，在经历了我两次闹剧后，老猫群里许多人已经渐渐疏远我了。尤其是突然降临的管理职位，令我不胜惶恐而又无奈，问老猫原因却是被冷处理掉了，在群里也无人回答，这很令我怀疑他的目的，究竟是找工具人还是心情好还是别的什么，反正我已经不会再投入我的感情去深爱这个不属于我的集体了......我感到这个虚拟世界在渐渐离我远去。哪有什么网上知己，不过是你自己篡改记忆自作多情罢了。幸好还有星辰等一些小伙伴，我并不感觉太难过。至少他们还在。
+   而现实更加令人难过，我并不是说这物质生活有哪里缺少，我深知其中的幸福，但也被误解、傲慢与言语欺凌包围着，我虽然不是受害者，但我的无作为只让我感受到作为欺凌者的罪恶。现在其实对这些有的没的早已麻木，难道这就是“承认荒谬”吗？我的灵魂就像沉没在海水里，空虚而无依靠，唯一支撑我走到今天的是思考与怀疑。也许我无法和所有人相处和谐，但我依旧想拥抱这些不平等。正如我之前的表态，我绝不局限于狭隘的小集体认同，也不愿为融入大集体而苟同。我不知道对错的分界线，对错事实上是“大多数”的看法罢了；因此，我不相信很多事情，真理也不一定存在，我们需要的只是寻求真理时的副产物。我不喜欢《乌合之众》里毫无论证与前提的强加因果和现代人应用其中文字时的生搬硬套，说实话，这一切都令人困惑着。有人会说这是“青春期的困惑”，我觉得这不该只限于一个时期，这是全人类都该思考的问题——在社会（集体）与个人间该有怎样的 取舍？我们的沉默有无知，一半有麻木，还有对延续今日的古代社会的妥协（正是因为是继承，人类社会保留了很多以前的规矩，也延续了不合理处；社会的不同阶层或集体的进步也是不同步的，所以才有这混乱而令人心醉的历史）。这值得我探求一生了......
+   我的天赋貌似在策划和管理这一块（Manager），但我只想做个创作者（Creator），不过真正的天赋，谁知道呢？（搞不好是为未来的超级电脑带盒饭和红茶或者是异星探索者呢）
+   关于计划：
+   1、小说《消失的人们》争取完结后发布
+   2、游戏《？？？》（还没想好），大世界废土探索游戏，剧情靠物品支撑，任务采取多支线式，采用虚幻引擎，争取讲述5个故事；
+   3、视频，给三叶猫草的礼物，从现在已有的4只狐狸中挑选建模，发到B站
+   4、音乐，在学，需求：纯音乐，忧伤，空灵，一声叹息</code></pre>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://modongfox.github.io/post/hello-gridea/</id>
+        <link href="https://modongfox.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
